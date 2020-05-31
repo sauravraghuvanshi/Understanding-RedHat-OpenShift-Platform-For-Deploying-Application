@@ -66,3 +66,8 @@ Table Shows New Application Parameters:
 | Name | helloworld |
 | Create a route to the application | Make sure the box is checked |
 
+### 4. Wait for OpenShift to build and deploy your application.
+* The web console should automatically show the Topology page. If necessary, click the Topology tab on the left side of the page.
+* Wait for the application icon to change to the build complete status.
+
+
