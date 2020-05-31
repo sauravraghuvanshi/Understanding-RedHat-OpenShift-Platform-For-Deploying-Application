@@ -79,3 +79,5 @@ Table Shows New Application Parameters:
 * Click the Location link in the route resource. Your web browser opens a new tab and accesses the application public URL.
 <img src="Images/6.png" width="1000">
 
+# My application on OpenShift is created.
+
