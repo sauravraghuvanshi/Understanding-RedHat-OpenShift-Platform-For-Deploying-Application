@@ -71,3 +71,7 @@ Table Shows New Application Parameters:
 * Wait for the application icon to change to the build complete status.
 <img src="Images/4.png" width="1000">
 
+### 5. Review the application resources and confirm that you can access the application from the internet.
+* Click the Node.js icon to access the application details.
+* Click the Resources tab to list the resources that OpenShift created during the application deployment.
+
