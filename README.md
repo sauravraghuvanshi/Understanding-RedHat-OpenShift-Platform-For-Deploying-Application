@@ -1,7 +1,6 @@
 # Deploying and Managing apllication Red Hat OpenShift.
 
-## Project-1: Deploying Applications to Red Hat OpenShift Container Platform:
-### Introducing OpenShift Container Platform:
+## Introducing OpenShift Container Platform:
 
 Red Hat OpenShift Container Platform is a self-service platform where development teams can deploy their applications. The platform integrates the tools to build and run applications, and manages the complete application life cycle from initial development to production.
 
@@ -13,14 +12,20 @@ By automating the build and deployment processes, OpenShift allows developers to
 OpenShift provides the building mechanisms, libraries, and runtime environments for the most popular languages, such as Java, Ruby, Python, PHP, .NET, Node.js, and many more. It also comes with a collection of additional services that you can directly use for your application, such as databases.
 
 As traffic and load to your web application increases, OpenShift can rapidly provision and deploy new instances of the application components. For the Operations team, it provides additional tools for logging and monitoring.
-OpenShift Container Platform Architecture Red Hat OpenShift Online, at [here](https://www.openshift.com/), is a public OpenShift instance run by Red Hat. With that cloud platform, customers can directly deploy their applications online, without needing to install, manage, and update their own instance of the platform.
+
+## OpenShift Container Platform Architecture:
+Red Hat OpenShift Online, at [here](https://www.openshift.com/), is a public OpenShift instance run by Red Hat. With that cloud platform, customers can directly deploy their applications online, without needing to install, manage, and update their own instance of the platform.
+
 Red Hat also provides the Red Hat OpenShift Container Platform that companies can deploy on their own infrastructure. By deploying your own instance of OpenShift Container Platform, you can fine tune the cluster performance specific to your needs. In this classroom, you will be provided access to a private OpenShift cluster.
-Application Architecture
-Several development teams or customers usually share the same OpenShift platform. For security and isolation between projects and customers, OpenShift builds and runs applications in isolated containers.
-A container is a way to package an application with all its dependencies, such as runtime environments and libraries.
-Figure 2.1: A container in a pod
-The previous diagram shows a container for a Node.js application. The container groups the Node.js runtime, the Node.js packages required by the application, and the application code itself.
-To manage the containerized applications, OpenShift adds a layer of abstraction known as the pod.
-Pods are the basic unit of work for OpenShift. A pod encapsulates a container, and other parameters, such as a unique IP address or storage. A pod can also group several related containers that share resources.
+
+## Application Architecture:
+Several development teams or customers usually share the same OpenShift platform. For security and isolation between projects and customers, OpenShift builds and runs applications in isolated containers. A container is a way to package an application with all its dependencies, such as runtime environments and libraries.
+
+
+To manage the containerized applications, OpenShift adds a layer of abstraction known as the pod. Pods are the basic unit of work for OpenShift. A pod encapsulates a container, and other parameters, such as a unique IP address or storage. A pod can also group several related containers that share resources.
+
+## Project-1: Deploying Applications to Red Hat OpenShift Container Platform:
+
+
 
 
