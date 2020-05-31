@@ -69,5 +69,5 @@ Table Shows New Application Parameters:
 ### 4. Wait for OpenShift to build and deploy your application.
 * The web console should automatically show the Topology page. If necessary, click the Topology tab on the left side of the page.
 * Wait for the application icon to change to the build complete status.
-
+<img src="Images/4.png" width="1000">
 
