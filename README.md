@@ -34,6 +34,6 @@ we should be able to use the OpenShift web console to:
 * To perform this exercise, ensure that the express-helloworld Node.js application is in your  GitHub DO101-app repository from the previous activity. Your changes should be in the devenv-versioning branch.
 * Red Hat Training manages an OpenShift cluster dedicated to this course. Your Red Hat Training Online Learning environment provides access to this platform.
 
-<img src="Images/1.png" width="500">
+<img src="Images/1.png" width="1000">
 
 
