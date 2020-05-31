@@ -74,4 +74,8 @@ Table Shows New Application Parameters:
 ### 5. Review the application resources and confirm that you can access the application from the internet.
 * Click the Node.js icon to access the application details.
 * Click the Resources tab to list the resources that OpenShift created during the application deployment.
+<img src="Images/5.png" width="1000">
+
+* Click the Location link in the route resource. Your web browser opens a new tab and accesses the application public URL.
+<img src="Images/6.png" width="1000">
 
