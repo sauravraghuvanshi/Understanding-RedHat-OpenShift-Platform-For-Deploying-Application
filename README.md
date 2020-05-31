@@ -37,14 +37,18 @@ we should be able to use the OpenShift web console to:
 <img src="Images/1.png" width="1000">
 
 ## Steps:
-#### 1. Open a web browser and access the OpenShift web console. Log in and switch to the Developer perspective.
+### 1. Open a web browser and access the OpenShift web console. Log in and switch to the Developer perspective.
 
  * Open a web browser and navigate to https://console-openshift-console.apps.cluster.domain.example.com to access the OpenShift web console. Replace the URL with the value from your Red Hat Training Online Learning environment. The login page for the web console displays.
  * Log in with the user name and password from your Red Hat Training Online Learning environment.
   
  * From the list at the top of the menu on the left, select the Developer perspective.
  <img src="Images/2.png" width="1000">
+
 ### 2. Create a new project named youruser-deploy-app. Replace youruser with your user name.
 * Use the Advanced → Projects menu and click Create Project.
 * Enter youruser-deploy-app in the Name field. Replace youruser with your user name. Leave the other fields empty and click Create.
 
+### 3. Create a new JavaScript Node.js application named helloworld. Use the code you pushed to the Git repository in the previous exercise. The code is in the express-helloworld subdirectory. The branch name is devenv-versioning.
+* Click the Add tab on the left side of the page and then click From Catalog.
+ <img src="Images/3.png" width="1000">
