@@ -52,3 +52,11 @@ we should be able to use the OpenShift web console to:
 ### 3. Create a new JavaScript Node.js application named helloworld. Use the code you pushed to the Git repository in the previous exercise. The code is in the express-helloworld subdirectory. The branch name is devenv-versioning.
 * Click the Add tab on the left side of the page and then click From Catalog.
  <img src="Images/3.png" width="1000">
+
+* Click Languages → JavaScript and then click the first option, Node.js. Click Create Application to enter the details of the application.
+* Complete the form according to the following table. To access the Git parameters, click Show Advanced Git Options.
+Table Shows New Application Parameters:
+| Parameter | Value |
+| ------------- | ------------- |
+| Git Repo URL | [link](https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat/tree/master/hello-nodejs) |
+| Git Reference | devenv-versioning |
