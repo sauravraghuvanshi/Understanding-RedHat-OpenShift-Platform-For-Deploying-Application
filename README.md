@@ -59,6 +59,6 @@ Table Shows New Application Parameters:
 
 | Parameter     | Value         |
 | ------------- | ------------- |
-| Git Repo URL  | [link](https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat/tree/master hello-nodejs) |
+| Git Repo URL  | https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat/tree/master hello-nodejs |
 | Git Reference | devenv-versioning |
 | Context Dir | /express-helloworld |
