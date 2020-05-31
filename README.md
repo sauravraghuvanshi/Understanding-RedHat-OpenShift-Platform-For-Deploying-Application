@@ -56,7 +56,8 @@ we should be able to use the OpenShift web console to:
 * Click Languages → JavaScript and then click the first option, Node.js. Click Create Application to enter the details of the application.
 * Complete the form according to the following table. To access the Git parameters, click Show Advanced Git Options.
 Table Shows New Application Parameters:
-| Parameter | Value |
+
+| Parameter     | Value         |
 | ------------- | ------------- |
-| Git Repo URL | [link](https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat/tree/master/hello-nodejs) |
+| Git Repo URL  | [link](https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat/tree/master hello-nodejs) |
 | Git Reference | devenv-versioning |
