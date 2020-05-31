@@ -59,6 +59,10 @@ Table Shows New Application Parameters:
 
 | Parameter     | Value         |
 | ------------- | ------------- |
-| Git Repo URL  | https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat/tree/master hello-nodejs |
+| Git Repo URL  | https://github.com/sauravraghuvanshi/Introduction-to-OpenShift-Application-by-RedHat |
 | Git Reference | devenv-versioning |
 | Context Dir | /express-helloworld |
+| Application Name | helloworld |
+| Name | helloworld |
+| Create a route to the application | Make sure the box is checked |
+
