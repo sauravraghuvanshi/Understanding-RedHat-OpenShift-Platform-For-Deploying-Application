@@ -43,7 +43,7 @@ we should be able to use the OpenShift web console to:
  * Log in with the user name and password from your Red Hat Training Online Learning environment.
   
  * From the list at the top of the menu on the left, select the Developer perspective.
- 
+ <img src="Images/2.png" width="1000">
 ### 2. Create a new project named youruser-deploy-app. Replace youruser with your user name.
 * Use the Advanced → Projects menu and click Create Project.
 * Enter youruser-deploy-app in the Name field. Replace youruser with your user name. Leave the other fields empty and click Create.
