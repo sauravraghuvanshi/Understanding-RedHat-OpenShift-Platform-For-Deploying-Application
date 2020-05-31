@@ -1,4 +1,4 @@
-# Deploying and Managing apllication Red Hat OpenShift.
+# Deploying and Managing apllication on Red Hat OpenShift.
 
 ## Introducing OpenShift Container Platform:
 
@@ -25,7 +25,14 @@ Several development teams or customers usually share the same OpenShift platform
 To manage the containerized applications, OpenShift adds a layer of abstraction known as the pod. Pods are the basic unit of work for OpenShift. A pod encapsulates a container, and other parameters, such as a unique IP address or storage. A pod can also group several related containers that share resources.
 
 ## Project-1: Deploying Applications to Red Hat OpenShift Container Platform:
-
-
+In this exercise, I used the OpenShift web console to deploy a Node.js application.
+**Outcomes**
+we should be able to use the OpenShift web console to:
+	• Create a new project.
+	• Add a new application from a Git repository.
+	• Inspect the resources that OpenShift creates during build and deployment.
+	• To perform this exercise, ensure that the express-helloworld Node.js application is in your  GitHub DO101-app repository from the previous activity. Your changes should be in the devenv-versioning branch.
+	• Red Hat Training manages an OpenShift cluster dedicated to this course. Your Red Hat Training Online Learning environment provides access to this platform.
+<img src="Images/1.jpg" width="500">
 
 
